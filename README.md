@@ -1,3 +1,7 @@
+## My personal updates:
+Navigation colors caused discomfort for me.
+It was updated to medium gray color
+
 # vim-colors-off
 
 *This is very much a work in progress*
