@@ -1,7 +1,7 @@
 ## My personal updates:
 Navigation colors caused discomfort for me.
 It was updated to medium gray color
-
+![Screenshot](shot1.png)
 # vim-colors-off
 
 *This is very much a work in progress*
